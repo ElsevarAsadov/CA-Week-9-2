@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrKVS1PXRFqUg79YUs2VqBif00gMpagzuGHulNLhDFeTYz3zWzsrYKPOdpEAR2S4rG46ykRFsRiywemILBWCOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Es\\source\\repos\\HomeWork\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Es\\.nuget\\packages\\westwind.aspnetcore.livereload\\0.4.2\\westwind.aspnetcore.livereload.0.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

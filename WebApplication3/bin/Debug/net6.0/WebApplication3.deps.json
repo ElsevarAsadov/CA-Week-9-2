@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplication3/1.0.0": {
+        "dependencies": {
+          "Westwind.AspNetCore.LiveReload": "0.4.2"
+        },
+        "runtime": {
+          "WebApplication3.dll": {}
+        }
+      },
+      "Westwind.AspNetCore.LiveReload/0.4.2": {
+        "runtime": {
+          "lib/net6.0/Westwind.AspNetCore.LiveReload.dll": {
+            "assemblyVersion": "0.4.2.0",
+            "fileVersion": "0.4.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Westwind.AspNetCore.LiveReload/0.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4XxEwqxeOLDTnDlEmBYu7jfepHbr0wINgROGI5qnWvxx5gZcawphba7t2mswJLZ/XMQwtxEfJ/SRI+d/BSzETg==",
+      "path": "westwind.aspnetcore.livereload/0.4.2",
+      "hashPath": "westwind.aspnetcore.livereload.0.4.2.nupkg.sha512"
+    }
+  }
+}
